@@ -2,7 +2,8 @@
 
 **Researcher:** Dr Yanfang Wu  
 **Institution:** University of Miami  
-**IRB Protocol:** # 1) Protocol Title
+**IRB Protocol:** # 
+1) Protocol Title
 
 Social Norms Curation in Network Communications on Social Media
 
