@@ -1,6 +1,6 @@
 # Terms of Service for Academic Research
 
-**Researcher:**   
+**Researcher:** Research
 **Institution:** University of Miami  
 **IRB Protocol:** #[Number]  
 
